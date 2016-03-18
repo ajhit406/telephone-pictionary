@@ -1,0 +1,7 @@
+{
+  "template": "meteor",
+  "ports": [3000],
+  "name": "Meteor Telephone Pictionary",
+  "logo": "",
+  "description": "A crash course in the Meteor Javascript web framework."
+}
