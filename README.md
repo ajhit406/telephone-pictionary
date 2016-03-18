@@ -9,7 +9,7 @@ implementation is left as an exercise to the reader.  The `solution` branch of
 this repository is a working game.
 
 ## Nitrous Quickstart
-You can quickly create a free development environment for this meteor project in the cloud on www.nitrous.io:
+You can quickly create a free development environment for this Meteor project in the cloud on www.nitrous.io:
 
 [![Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/quickstart)
 
